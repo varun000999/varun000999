@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @varun000999
+- 👋 Hi, I’m Varun Rawat
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java Development
-- 💞️ I’m looking to collaborate on Machine Learning and Java Development
+- 🌱 I’m currently working at Nagarro Software as a Java Developer
+- 💞️ I’m looking to collaborate on Machine Learning and Java Development projects
 - 📫 How to reach me ...
 
 <!---
