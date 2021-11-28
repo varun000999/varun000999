@@ -3,7 +3,7 @@
 - 🌱 I’m currently working at Nagarro Software as a Java Developer
 - 💞️ I’m looking to collaborate on Machine Learning and Java Development projects
 - 💻 I'm an active participator at coding contests on platform like Codeforces, Codechef
-- 📋 Get my update resume from Here - <a href = "https://drive.google.com/file/d/1_egS_6F5UwsX2o-gJHrMtquTx0dY9rqg/view"> Link Text </a>
+- 📋 Get my update resume from Here - <a href = "https://drive.google.com/file/d/1Or_Kz49hZt0e2ati7mTMEh83WkHg2JBQ/view?usp=sharing"> Link Text </a>
 - 📫 How to reach me ...ic
 <!---
 varun000999/varun000999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
